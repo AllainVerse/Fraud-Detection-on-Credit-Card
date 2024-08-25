@@ -1,6 +1,6 @@
-# CREDIT CARD FRAUD DETECTION USING SUPPORT VECTOR MACHINE
+# Credit Card Fraud Detection using SVM Model
 
-## Objecttive :
+## Objective :
 
 The goal is to detect fraudulent credit card transactions using machine learning techniques, specifically Support Vector Machine(SVM), on highly imbalanced data sets.
 
